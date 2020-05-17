@@ -1,15 +1,12 @@
 ﻿---
 
+# TP1 - SISTEMAS EMBEBIDOS
 
----
+**Grupo 3**
 
-<h1 id="tp1---sistemas-embebidos">TP1 - SISTEMAS EMBEBIDOS</h1>
-<h2 id="grupo-3">Grupo 3</h2>
-<ul>
-<li>Barrionuevo Facundo, Padrón: 99280.</li>
-<li>Centofanti Ezequiel, Padrón: 100941.</li>
-<li>Scheinkerman Lucas, Padrón: 100047.</li>
-</ul>
+- [Barrionuevo Facundo](https://github.com/faqbarrionuevo/SistemasEmbebidos), Padrón: 99280
+- [Centofanti Ezequiel](https://github.com/CentofantiEze/Sistemas-Embebidos.git), Padrón: 100941   
+- Scheinkerman Lucas, Padrón: 100047
 
 # Instalación de herramientas
 
